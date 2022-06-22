@@ -25,5 +25,10 @@ class ViewController: UIViewController {
     func raipur() {
         debugPrint("Welcome to raipur")
     }
+    
+    // Big cities
+    func Bengaluru() {
+        debugPrint("Hello bengaluru")
+    }
 }
 
