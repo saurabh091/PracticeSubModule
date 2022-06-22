@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     }
     
     func delhi() {
-        
+        debugPrint("Qutab minar is in delhi")
     }
 }
 
