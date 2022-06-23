@@ -30,5 +30,10 @@ class ViewController: UIViewController {
     func Bengaluru() {
         debugPrint("Hello bengaluru")
     }
+    
+    //Names
+    func name() {
+        debugPrint("names")
+    }
 }
 
